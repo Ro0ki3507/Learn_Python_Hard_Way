@@ -1,10 +1,21 @@
 # -*- coding: utf-8 -*-
 
+#Save car value
 cars = 100
+
+#save passengers in car
 space_in_a_car = 4.0
+
+#save how many drivers you have
 drivers = 30
+
+#save total passengers
 passengers = 90
+
+#Calculate total cars minus total drivers
 cars_not_driven = cars - drivers
+
+
 cars_driven = drivers
 carpool_capacity = cars_driven * space_in_a_car
 average_passengers_per_car = passengers / cars_driven
