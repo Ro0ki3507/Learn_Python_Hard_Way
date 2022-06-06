@@ -1,5 +1,5 @@
-Escape Sequences reference
+####Escape Sequences reference
 
-Escape                  What it does
+#Escape                  What it does
 \\                      Backslash(\)
 \'                      Single-quote(')
