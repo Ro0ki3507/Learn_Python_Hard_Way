@@ -20,3 +20,7 @@ Summary of excercises for book Learn Python the Hard Way
 | \V                                      |                 ASCII vertical tab (VT) |
 | \ooo                                    |           Character with octal value oo |
 | \xhh                                    |             Character with hex value hh |
+
+
+## To Check documentation
+python -m pydoc *function* 
