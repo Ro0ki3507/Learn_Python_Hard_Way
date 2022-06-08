@@ -24,3 +24,10 @@ Summary of excercises for book Learn Python the Hard Way
 
 ## To Check documentation
 python -m pydoc *function* 
+
+## Reading and Writing files
+* file.close() -> Close the file
+* file.read() -> Read content of file, you can assign the result to a variable
+* file.readline() -> Reads just one line of a text file
+* file.truncate() -> Empties the file. Watch out if you care about the file
+* file.write(stuff) -> Writes stuff to the file
